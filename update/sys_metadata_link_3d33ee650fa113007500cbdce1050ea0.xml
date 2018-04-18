@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a86dd2210fa113007500cbdce1050ee7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_66238_tn49qt_beer">
+    <x_66238_tn49qt_beer action="INSERT_OR_UPDATE">
+        <brewery display_value="GlideRecord Brewery">2d0e96210fa113007500cbdce1050e34</brewery>
+        <name>Undocumented Ale</name>
+        <rating>3.5</rating>
+        <style>Ale</style>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 15:18:03</sys_created_on>
+        <sys_id>a86dd2210fa113007500cbdce1050ee7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 15:22:31</sys_updated_on>
+    </x_66238_tn49qt_beer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 15:43:11</sys_created_on>
+        <sys_id>3d33ee650fa113007500cbdce1050ea0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Undocumented Ale</sys_name>
+        <sys_package display_value="TN49 - QT" source="x_66238_tn49qt">e03c92ad0f6113007500cbdce1050ea4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TN49 - QT">e03c92ad0f6113007500cbdce1050ea4</sys_scope>
+        <sys_update_name>sys_metadata_link_3d33ee650fa113007500cbdce1050ea0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 15:43:11</sys_updated_on>
+        <tablename>x_66238_tn49qt_beer</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2d0e96210fa113007500cbdce1050e34</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_66238_tn49qt_brewery">
+    <x_66238_tn49qt_brewery action="INSERT_OR_UPDATE">
+        <location display_value="San Diego">108752c8c611227501d4ab0e392ba97f</location>
+        <name>GlideRecord Brewery</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 15:21:17</sys_created_on>
+        <sys_id>2d0e96210fa113007500cbdce1050e34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 15:21:17</sys_updated_on>
+    </x_66238_tn49qt_brewery>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 15:42:51</sys_created_on>
+        <sys_id>09232e650fa113007500cbdce1050eaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord Brewery</sys_name>
+        <sys_package display_value="TN49 - QT" source="x_66238_tn49qt">e03c92ad0f6113007500cbdce1050ea4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TN49 - QT">e03c92ad0f6113007500cbdce1050ea4</sys_scope>
+        <sys_update_name>sys_metadata_link_09232e650fa113007500cbdce1050eaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 15:42:51</sys_updated_on>
+        <tablename>x_66238_tn49qt_brewery</tablename>
+    </sys_metadata_link>
+</record_update>
