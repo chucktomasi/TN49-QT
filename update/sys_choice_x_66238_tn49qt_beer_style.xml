@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="style" table="x_66238_tn49qt_beer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ale</label>
+            <language>en</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:19:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ddd92210fa113007500cbdce1050e21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:19:39</sys_updated_on>
+            <value>Ale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cerveza inglesa</label>
+            <language>es</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:38:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d2226650fa113007500cbdce1050ea9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:38:32</sys_updated_on>
+            <value>Ale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cerveza pálida India</label>
+            <language>es</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:37:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ee1aaa10fa113007500cbdce1050eb6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:38:00</sys_updated_on>
+            <value>IPA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IPA</label>
+            <language>en</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:19:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51dd92210fa113007500cbdce1050e23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:19:39</sys_updated_on>
+            <value>IPA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lager</label>
+            <language>en</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:19:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11dd92210fa113007500cbdce1050e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:19:39</sys_updated_on>
+            <value>Lager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lager</label>
+            <language>es</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:40:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4682ea650fa113007500cbdce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:40:11</sys_updated_on>
+            <value>Lager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cerveza pálida</label>
+            <language>es</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:39:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a62aa650fa113007500cbdce1050e1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:39:41</sys_updated_on>
+            <value>Pale Ale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pale Ale</label>
+            <language>en</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:19:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dddd92210fa113007500cbdce1050e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:19:39</sys_updated_on>
+            <value>Pale Ale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pilsner</label>
+            <language>es</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:40:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35a22e650fa113007500cbdce1050e97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:40:43</sys_updated_on>
+            <value>Pilsner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pilsner</label>
+            <language>en</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:19:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ddd92210fa113007500cbdce1050e25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:19:39</sys_updated_on>
+            <value>Pilsner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Porter</label>
+            <language>en</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:19:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ddd92210fa113007500cbdce1050e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:19:39</sys_updated_on>
+            <value>Porter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portero</label>
+            <language>es</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:36:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76912aa10fa113007500cbdce1050ef6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:36:08</sys_updated_on>
+            <value>Porter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cerveza negra</label>
+            <language>es</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:37:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61d1aa250fa113007500cbdce1050e17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:37:09</sys_updated_on>
+            <value>Stout</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stout</label>
+            <language>en</language>
+            <name>x_66238_tn49qt_beer</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:19:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ddd92210fa113007500cbdce1050e27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:19:39</sys_updated_on>
+            <value>Stout</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>style</element>
+            <name>x_66238_tn49qt_beer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 15:19:39</sys_created_on>
+            <sys_id>d9dd92210fa113007500cbdce1050e22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>style</sys_name>
+            <sys_package display_value="TN49 - QT" source="x_66238_tn49qt">e03c92ad0f6113007500cbdce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TN49 - QT">e03c92ad0f6113007500cbdce1050ea4</sys_scope>
+            <sys_update_name>sys_choice_x_66238_tn49qt_beer_style</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 15:19:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Beer" max_length="40" name="x_66238_tn49qt_beer" type="collection">
+        <element label="Brewery" max_length="32" name="brewery" reference="x_66238_tn49qt_brewery" type="reference"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Rating" max_length="20" name="rating" type="decimal"/>
+        <element choice="1" label="Style" max_length="40" name="style" type="choice">
+            <choice>
+                <element label="Ale" sequence="0" value="Ale"/>
+                <element label="Cerveza inglesa" language="es" sequence="0" value="Ale"/>
+                <element label="Cerveza pálida India" language="es" sequence="1" value="IPA"/>
+                <element label="IPA" sequence="1" value="IPA"/>
+                <element label="Lager" sequence="2" value="Lager"/>
+                <element label="Lager" language="es" sequence="2" value="Lager"/>
+                <element label="Cerveza pálida" language="es" sequence="3" value="Pale Ale"/>
+                <element label="Pale Ale" sequence="3" value="Pale Ale"/>
+                <element label="Pilsner" language="es" sequence="4" value="Pilsner"/>
+                <element label="Pilsner" sequence="4" value="Pilsner"/>
+                <element label="Porter" sequence="5" value="Porter"/>
+                <element label="Portero" language="es" sequence="5" value="Porter"/>
+                <element label="Cerveza negra" language="es" sequence="6" value="Stout"/>
+                <element label="Stout" sequence="6" value="Stout"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="brewery"/>
+        </index>
+    </element>
+</database>

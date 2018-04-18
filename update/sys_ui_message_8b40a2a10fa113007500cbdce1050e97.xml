@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <key>tn49qt_good_beer</key>
+        <language>en</language>
+        <message>{0}: Mmmm, that is a good beer!</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 15:33:08</sys_created_on>
+        <sys_id>8b40a2a10fa113007500cbdce1050e97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tn49qt_good_beer</sys_name>
+        <sys_package display_value="TN49 - QT" source="x_66238_tn49qt">e03c92ad0f6113007500cbdce1050ea4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TN49 - QT">e03c92ad0f6113007500cbdce1050ea4</sys_scope>
+        <sys_update_name>sys_ui_message_8b40a2a10fa113007500cbdce1050e97</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 15:33:08</sys_updated_on>
+    </sys_ui_message>
+</record_update>

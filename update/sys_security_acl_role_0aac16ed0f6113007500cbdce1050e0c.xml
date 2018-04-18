@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 15:14:31</sys_created_on>
+        <sys_id>0aac16ed0f6113007500cbdce1050e0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_66238_tn49qt_beer.x_66238_tn49qt.user</sys_name>
+        <sys_package display_value="TN49 - QT" source="x_66238_tn49qt">e03c92ad0f6113007500cbdce1050ea4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TN49 - QT">e03c92ad0f6113007500cbdce1050ea4</sys_scope>
+        <sys_security_acl display_value="x_66238_tn49qt_beer">c6ac16ed0f6113007500cbdce1050e08</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0aac16ed0f6113007500cbdce1050e0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 15:14:31</sys_updated_on>
+        <sys_user_role display_value="x_66238_tn49qt.user" name="x_66238_tn49qt.user">bc3c5aad0f6113007500cbdce1050e93</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
